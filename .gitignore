@@ -1,0 +1,19 @@
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/dashboard-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Environment variables
+.env
+
+# Local agent tooling (opencode)
+/.opencode/
+/opencode.json
+
+# OS / editor
+.DS_Store
+*.log
